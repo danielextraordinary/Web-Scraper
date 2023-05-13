@@ -2,13 +2,9 @@ import time
 
 
 from yelp import Yelp
-import sys
-start_time = time.time()
-"""
-search = str(sys.argv[0].replace("+"," "))
-location = str(sys.argv[1].replace("+"," "))
 
-"""
+start_time = time.time()
+
 search = "Web Design"
 location = "United Kingdom"
 
